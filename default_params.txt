@@ -1,0 +1,36 @@
+###  PARAMETERS  ###
+
+lfp_fs = 1000.0;
+theta = [6.0, 10.0];
+slow_gamma = [25.0, 55.0];
+fast_gamma = [60.0, 100.0];
+ds_freq = [5.0, 100.0];
+ds_height_thr = 4.5;
+ds_dist_thr = 0.1;
+ds_prom_thr = 0.0;
+ds_wlen = 0.125;
+swr_freq = [120.0, 180.0];
+swr_ch_bound = 5.0;
+swr_height_thr = 5.0;
+swr_min_thr = 3.0;
+swr_dist_thr = 0.1;
+swr_min_dur = 25.0;
+swr_freq_thr = 125.0;
+swr_freq_win = 8.0;
+swr_maxamp_win = 40.0;
+csd_method = standard;
+f_type = gaussian;
+f_order = 3.0;
+f_sigma = 1.0;
+vaknin_el = True;
+tol = 1e-06;
+spline_nsteps = 200.0;
+el_dist = 0.05;
+src_diam = 0.5;
+src_h = 0.1;
+cond = 0.3;
+cond_top = 0.3;
+clus_algo = kmeans;
+nclusters = 2.0;
+eps = 0.2;
+min_clus_samples = 3.0;

@@ -1,0 +1,3 @@
+RAW_DATA = /Users/amandaschott/Library/CloudStorage/Dropbox/Farrell_Programs/shank3_raw
+PROCESSED_DATA = /Users/amandaschott/Library/CloudStorage/Dropbox/Farrell_Programs/shank3_saved
+PROBE_FILES = /Users/amandaschott/Library/CloudStorage/Dropbox/Farrell_Programs/gui_pkg
